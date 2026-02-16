@@ -1,0 +1,14 @@
+n1=int(input("What is your first input: "))
+n2=int(input("What is your second input: "))
+sum= n1+n2
+difference= n1-n2
+product=n1*n2
+division=n1/n2
+print(sum)
+print(difference)
+print(produt)
+print(average)
+if average>59:
+    print("pass")
+else:
+    print("fail")
